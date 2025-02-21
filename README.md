@@ -1,8 +1,8 @@
 <h1 align='center'>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1000&center=true&width=435&lines=I'm + Thien + Bao;Limdim1604" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1000&center=true&width=435&lines=Nguyen + Thien + Bao;Limdim1604" alt="Typing SVG" /></a>
 </h1>
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning and Java Spring**
+- 🌱 I’m currently learning **Machine Learning & Deep Learning**
 
 - 📫 How to reach me **23520127@gm.uit.edu.vn**
 
