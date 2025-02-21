@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **23520127@gm.uit.edu.vn**
 
-- ⚡ Fun fact **I'm very interested in reading comic**
+- ⚡ Fun fact **I'm very interested in piano**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Limdim1604&label=Profile%20views&color=0e75b6&style=flat" alt="Limdim1604" /> </p>
 
