@@ -53,3 +53,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Limdim1604&show_icons=true&locale=en&theme=onedark" alt="Limdim1604" /></p>
 
+<div> <b> ༼⁠ ⁠つ⁠ ⁠◕⁠‿⁠◕⁠ ⁠༽⁠つ All things are difficult before they are easy </b></div>
